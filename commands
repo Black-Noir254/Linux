@@ -1,0 +1,40 @@
+sudo   -- superuser do, used to perform administrative or root permissions
+pwd    -- used to find the current working directory.
+cd     -- navigate through the linux files and directories.
+ls     -- lists files and directories.
+cat    -- lists, combines and writes file content to the standard output.
+cp     -- copy files or directories and their content.
+mv     -- move and rename files and directories.
+mkdir   - create 1 or more directories at once.
+rmdir   - permanently delete an empty directory.
+rm     -- deletes files within a directory.
+touch   - finds file in a database.
+find   -- search for files within a specific directory.
+grep   -- lets you find a word by searching through all the text in a specific file.
+df     -- reports thee system's disk space usage.
+du     -- checks how much space a file or directory takes up.
+head   -- allows you to view the first 10 lines of a text
+tail   -- displays the last 10 llines of a file.
+diff   -- compares two contents of a file line by line and displays the part that do not match.
+tar    -- archives multiple files into a TAR file. 
+chmod   - modifies a file or directory read, write and execute permissions.
+chown   - let you change the ownership of a file or directory.
+jobs   -- displays all the running processes along with their status.
+kill   -- terminates an unresponsive program manually.
+ping   -- checks whether a network or a server is reachable.
+wget   -- lets you download files from the internet
+uname   - prints detail information about your linux system and hardware.
+top    -- displays real-time view of current system running processes.
+history   list up to 500 previously executed commands.
+man    -- provides user manual of any command.
+echo   -- displays a line of text using standard output.
+zip    -- compress your files into a ZIP file.
+hostname   displays system's hostname
+useradd    create a new account
+user del   delete a user account
+apt-get    tool for handling Advanced Package Tool libraries
+nano   -- allows users to edit and manage files via a text editor.
+alias   - allows you to create a shortcut with same functionality as a command.
+su     -- allows you to run a program as a different user.
+htop   -- interactive program that monitors system resources in real time.
+ps     -- produces a snapshot of all running processes in your system
